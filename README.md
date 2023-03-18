@@ -1,6 +1,6 @@
 # IP-Blocklist-Manager
 
-##Introduction
+## Introduction
 This project is a simple tool that allows users to add an IP address to a blocklist. The tool retrieves the latest blocklist from a source URL, saves it to a local file, and allows the user to add an IP address to that file. The blocklists are saved in CSV format, with one IP address per line.
 
 ##Directory Structure
