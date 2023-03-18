@@ -3,7 +3,7 @@
 ## Introduction
 This project is a simple tool that allows users to add an IP address to a blocklist. The tool retrieves the latest blocklist from a source URL, saves it to a local file, and allows the user to add an IP address to that file. The blocklists are saved in CSV format, with one IP address per line.
 
-##Directory Structure
+## Directory Structure
 The project has the following directory structure:
 
 
@@ -31,9 +31,9 @@ git clone https://github.com/krishnakumarbhat/IP-Blocklist-Manager.git
 
 Install the required dependencies using the following command:
 
-###pip install requests
+### pip install requests
 Run the main.py file using the following command:
 
-###python main.py
+### python main.py
 
 If you want to add an IP address to the current day's blocklist, enter 1 when prompted and then enter the IP address. Otherwise, just press Enter to exit the tool.
