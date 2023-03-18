@@ -37,8 +37,9 @@ git clone https://github.com/krishnakumarbhat/IP-Blocklist-Manager.git
 Install the required dependencies using the following command:
 
 ### pip install requests
-Run the main.py file using the following command:
+Run the main.py file using the following commandin main.py directory:
 
-### python main.py
+### python3 main.py
+
 
 If you want to add an IP address to the current day's blocklist, enter 1 when prompted and then enter the IP address. Otherwise, just press Enter to exit the tool.
