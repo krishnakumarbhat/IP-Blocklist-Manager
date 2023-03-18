@@ -14,11 +14,16 @@ The project has the following directory structure:
 
 
 blocklists: This directory contains the retriever.py file, which contains the BlocklistRetriever class responsible for retrieving the latest blocklist from the source URL and saving it to a local file.
+
 config: This directory contains the config.py file, which contains the Config class responsible for storing the configuration parameters used by the tool.
+
 data: This directory contains the saved blocklists in CSV format.
+
 main.py: This is the main entry point of the tool, which prompts the user to add an IP address to the current day's blocklist.
 Requirements
-The following are the requirements for running the project:
+
+
+### The following are the requirements for running the project:
 
 Python 3.9 or higher
 requests library
